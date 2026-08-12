@@ -33,7 +33,27 @@ O pipeline construído no ecossistema Python abrangeu as seguintes boas prática
 
 Para dar suporte aos futuros modelos de classificação binária, estruturei a variável explicativa **`acidente_fatal`**:
 
-\[\text{acidente\_fatal} = \begin{cases} 1, & \text{se número de mortos} \ge 1 \\ 0, & \text{se número de mortos} = 0 \end{cases}\]
+```python
+import numpy as np
+import pandas as pd
+
+# 1. Criação da variável-alvo (Target) de forma vetorizada com NumPy
+df["acidente_fatal"] = np.where(df["mortos"] >= 1, 1, 0)
+
+# 2. Construção da tabela de validação e distribuição de classes
+validacao_alvo = (
+    df["acidente_fatal"]
+    .value_counts(dropna=False)
+    .rename_axis("acidente_fatal")
+    .reset_index(name="qtd")
+)
+
+# 3. Cálculo do percentual de representatividade de cada classe
+validacao_alvo["perc"] = (validacao_alvo["qtd"] / validacao_alvo["qtd"].sum()) * 100
+
+# 4. Exibição da tabela final estruturada
+display(validacao_alvo)
+```
 
 > ⚠️ *Nota de Engenharia: Variáveis que indicavam o desfecho do acidente de forma óbvia ou redundante foram expurgadas da base modelável durante o processo de prevenção de Data Leakage, blindando o modelo contra superajustamento (overfitting).*
 
