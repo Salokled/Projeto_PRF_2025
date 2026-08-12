@@ -2,8 +2,7 @@
 ### 🛤️ Trilha: Pipeline de Dados com Dados Abertos da PRF
 
 ![Status do Projeto](https://shields.io)
-[<img src="https://shields.io" alt="Python Badge" />](https://img.shields.io/pypi/pyversions/:packageName
-)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Stack](https://shields.io)
 
 Esta unidade é o núcleo técnico de engenharia, saneamento e transformação do ecossistema de dados do projeto. Utilizando **Python**, realizei o tratamento completo da base bruta de acidentes da **Polícia Rodoviária Federal (PRF) de 2025**, transformando dados desalinhados em ativos analíticos prontos para consumo por ferramentas de BI e algoritmos de Machine Learning.
