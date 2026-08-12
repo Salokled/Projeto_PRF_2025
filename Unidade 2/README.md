@@ -56,7 +56,7 @@ A base pertence ao conjunto de dados **DATATRAN**.
 Para garantir a reprodutibilidade do projeto e boas práticas de arquitetura de pastas:
 
 ```text
-Módulo 2/
+Unidade 2/
 └── planilha/
     └── analise_exploratoria_prf_2025.xlsx         # Planilha gerada na atividade
 ```
