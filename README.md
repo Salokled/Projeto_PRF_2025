@@ -25,7 +25,7 @@ O projeto acompanha um fluxo progressivo de análise de dados, desde a exploraç
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) *(próxima etapa)*
 
-### 🧪 Ambiente de Desenvolvimento
+### 🧪 Ambiente de Análise
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
