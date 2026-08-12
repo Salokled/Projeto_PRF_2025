@@ -53,14 +53,14 @@ O projeto também busca desenvolver, na prática, competências fundamentais par
 
 O projeto está organizado em unidades que representam diferentes etapas de um fluxo de análise de dados.
 
-### 📈 [Unidade 1 — Fundamentos de Data Analytics](./01_fundamentos_data_analytics/)
+### 📈 [Unidade 1 — Fundamentos de Data Analytics](./Unidade%201/)
 
 > 🔎 Exploração inicial da base, estatística descritiva e compreensão dos dados da PRF.
 
 **Principais recursos:**
 `Estatística Descritiva` · `Open Data` · `Exploração de Dados` · `Data Preparation`
 
-👉 **[Explorar Unidade 1 →](./01_fundamentos_data_analytics/)**
+👉 **[Explorar Unidade 1 →](./Unidade%201/)**
 
 ---
 
