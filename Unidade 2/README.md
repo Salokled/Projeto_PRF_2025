@@ -1,5 +1,5 @@
 # 📊 Unidade 2 — Excel para Análise de Dados
-### 🛤️ Análise de Dados — Data Analytics com Dados Abertos da PRF
+### 🛤️ Análise de Dados: Data Analytics com Dados Abertos da PRF
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 🎯 Objetivo
