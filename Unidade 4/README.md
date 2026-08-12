@@ -1,6 +1,5 @@
 # 🐍 Unidade 4 — Engenharia e Preparação de Dados com Python
-### 🛤️ Trilha: Pipeline de Dados com Dados Abertos da PRF
-
+### 🛤️ Análise de Dados: Data Analytics com Dados Abertos da PRF
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
