@@ -64,36 +64,36 @@ O projeto está organizado em unidades que representam diferentes etapas de um f
 
 ---
 
-### 📊 [Unidade 2 — Excel para Análise de Dados](./02_planilha_analise_exploratoria/)
+### 📊 [Unidade 2 — Excel para Análise de Dados](./Unidade%202/)
 
 > 📊 Construção das primeiras evidências analíticas utilizando filtros, tabelas dinâmicas e gráficos.
 
 **Principais recursos:**
 `Google Sheets` · `Excel` · `Tabelas Dinâmicas` · `Filtros` · `Data Visualization`
 
-👉 **[Explorar Unidade 2 →](./02_planilha_analise_exploratoria/)**
+👉 **[Explorar Unidade 2 →](./Unidade%202/)**
 
 ---
 
-### 🗄️ [Unidade 3 — SQL com SQLite](./03_sql_analise_prf/)
+### 🗄️ [Unidade 3 — SQL com SQLite](./Unidade%203/)
 
 > 🔍 Consultas analíticas para investigar acidentes por diferentes dimensões e gerar resultados estruturados.
 
 **Principais recursos:**
 `SQL` · `SQLite` · `GROUP BY` · `Agregações` · `Filtros` · `CSV`
 
-👉 **[Explorar Unidade 3 →](./03_sql_analise_prf/)**
+👉 **[Explorar Unidade 3 →](./Unidade%203/)**
 
 ---
 
-### 🐍 [Unidade 4 — Engenharia e Preparação de Dados com Python](./04_engenharia_preparacao_python/)
+### 🐍 [Unidade 4 — Engenharia e Preparação de Dados com Python](./Unidade%204/)
 
 > ⚙️ Tratamento, transformação e preparação dos dados para análises avançadas, BI e Machine Learning.
 
 **Principais recursos:**
 `Python` · `Pandas` · `NumPy` · `ETL` · `Data Cleaning` · `Feature Engineering`
 
-👉 **[Explorar Unidade 4 →](./04_engenharia_preparacao_python/)**
+👉 **[Explorar Unidade 4 →](./Unidade%204/)**
 
 ---
 
