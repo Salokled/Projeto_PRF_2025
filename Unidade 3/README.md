@@ -1,6 +1,7 @@
 # 🗄️ Unidade 3 — SQL com SQLite (Consultas analíticas sobre acidentes fatais)
 ### 🛤️ Análise de Dados: Data Analytics com Dados Abertos da PRF
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 🎯 Objetivo
 
