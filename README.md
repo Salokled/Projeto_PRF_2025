@@ -116,29 +116,6 @@ A base contém informações relacionadas a:
 
 📌 **Recorte analisado:** acidentes registrados em **2025**.
 
----
-
-# 🛠️ Stack Tecnológico
-
-### 💻 Linguagens
-
-`Python` · `SQL`
-
-### 📊 Análise de Dados
-
-`Pandas` · `NumPy` · `SQLite` · `Excel` · `Google Sheets`
-
-### 📈 Visualização e BI
-
-`Excel` · `Google Sheets` · `Power BI` *(próxima etapa)*
-
-### 🧪 Ambiente de Desenvolvimento
-
-`Jupyter Notebook` · `VS Code`
-
-### 🔧 Engenharia e Versionamento
-
-`Git` · `GitHub`
 
 ---
 
