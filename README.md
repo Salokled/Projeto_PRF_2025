@@ -1,6 +1,6 @@
-# Projeto PRF 2025 — Módulo 4: Preparação dos Dados com Python
+# Projeto PRF 2025 — Unidade 4: Preparação dos Dados com Python
 
-Projeto desenvolvido no **Módulo 4 — Preparação dos Dados com Python**, utilizando dados de acidentes da Polícia Rodoviária Federal (PRF) referentes ao ano de 2025.
+Projeto desenvolvido no **Unidade 4 — Preparação dos Dados com Python**, utilizando dados de acidentes da Polícia Rodoviária Federal (PRF) referentes ao ano de 2025.
 
 ## Objetivo
 
