@@ -65,7 +65,7 @@ display(validacao_alvo)
 Estrutura desenhada para garantir a reprodutibilidade, governança e organização do código-fonte:
 
 ```text
-Projeto_PRF_2025/
+Unidade 4/
 │
 ├── dados_brutos/
 │   └── acidentes2025.csv                  # Dataset original e imutável da PRF
