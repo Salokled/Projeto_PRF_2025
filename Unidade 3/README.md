@@ -21,7 +21,7 @@ A atividade foi desenvolvida utilizando integralmente o **SQLite**.
 
 ## 📦 Entrega
 
-A entrega deste módulo está consolidada e documentada através de:
+A entrega desta unidade está consolidada e documentada através de:
 * **Script Estruturado:** Arquivo `.sql` contendo todas as consultas realizadas, organizadas e devidamente comentadas.
 * **Datasets de Saída:** Arquivos `.csv` contendo os resultados exportados de cada consulta para consumo posterior.
 
@@ -43,7 +43,7 @@ As queries foram desenhadas para explorar diferentes dimensões e responder a pe
 Para garantir a reprodutibilidade do projeto e boas práticas de arquitetura de pastas:
 
 ```text
-03_sql_analise_prf/
+Unidade 3/
 ├── README.md                              # Documentação do projeto (este arquivo)
 ├── sql/
 │   └── consultas_prf_2025.sql             # Script com as queries SQL desenvolvidas
