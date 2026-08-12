@@ -2,7 +2,7 @@
 ### 🛤️ Trilha: Análise de Dados com Dados Abertos da PRF
 
 
-
+![Microsoft Excel](https://shields.io)
 Esta unidade marca o início da minha jornada na trilha de **Data Analytics**, focada em extrair inteligência e insights de cenários reais. Como estudo de caso, utilizo dados públicos e oficiais de acidentes de trânsito disponibilizados pela **Polícia Rodoviária Federal (PRF)** através da base de dados **DATATRAN 2025**.
 
 O objetivo principal desta etapa é consolidar a maturidade no entendimento, mapeamento e estruturação de dados brutos de alta relevância social e governamental, preparando o terreno para análises estatísticas e preditivas avançadas.
