@@ -97,6 +97,17 @@ O projeto está organizado em unidades que representam diferentes etapas de um f
 
 ---
 
+### 📊 [Unidade 5 — KPIs e Storytelling de Dados](./Unidade%205/)
+
+> 📈 Construção de indicadores relacionados à ocorrência de acidentes fatais e apresentação dos resultados por meio de visualizações e Data Storytelling.
+
+**Principais recursos:**
+`KPIs` · `Data Analytics` · `Data Visualization` · `Python` · `Pandas` · `Matplotlib` · `Jupyter Notebook`
+
+👉 **[Explorar Unidade 5 →](./Unidade%205/)**
+
+---
+
 ## 🗂️ Base de Dados
 
 Os dados utilizados são provenientes do **DATATRAN**, conjunto de dados abertos disponibilizado pela **Polícia Rodoviária Federal (PRF)**.
