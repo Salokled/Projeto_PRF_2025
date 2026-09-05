@@ -157,5 +157,43 @@ O processo envolveu:
 Unidade 5/
 │
 ├── README.md
+│
 ├── kpis_prf_2025.ipynb
-└── KPIs-da-Base-Analitica-da-PRF.pdf
+│
+├── Complemento dos graficos Estatísticos. Base prf2025.xlsx
+│
+├── Frequências, Rankings e Série Temporal.docx
+├── Frequências, Rankings e Série Temporal.pdf
+│
+├── Relatório_EDA_PRF_2025_Acidentes_FATAIS.pdf
+│
+└── KPIs-da-Base-Analitica-PRF.pdf
+```
+
+### 📓 Notebook
+
+**`kpis_prf_2025.ipynb`**
+Notebook utilizado no desenvolvimento das análises da Unidade 5, reunindo exploração dos dados, cálculos, agrupamentos e visualizações.
+
+### 📊 Complemento estatístico
+
+**`Complemento dos graficos Estatísticos. Base prf2025.xlsx`**
+Planilha complementar utilizada no desenvolvimento e apoio às análises e aos gráficos estatísticos.
+
+### 📈 Frequências, Rankings e Série Temporal
+
+**`Frequências, Rankings e Série Temporal.docx`**
+Documento com as análises de frequências, rankings e série temporal.
+
+**`Frequências, Rankings e Série Temporal.pdf`**
+Versão em PDF do material de frequências, rankings e série temporal.
+
+### 🔎 Relatório EDA
+
+**`Relatório_EDA_PRF_2025_Acidentes_FATAIS.pdf`**
+Relatório de **Análise Exploratória de Dados (EDA — Exploratory Data Analysis)** aplicado à base de acidentes fatais da PRF em 2025.
+
+### 📌 Relatório de KPIs
+
+**`KPIs-da-Base-Analitica-PRF.pdf`**
+Relatório de **Data Storytelling** com os 5 KPIs desenvolvidos para análise dos acidentes fatais.
