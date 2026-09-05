@@ -2,9 +2,11 @@
 
 ## 🚦 Análise de Acidentes Fatais — PRF 2025
 
-Nesta unidade são desenvolvidos **Key Performance Indicators (KPIs)** a partir da base analítica de acidentes da **Polícia Rodoviária Federal (PRF)** referente ao ano de 2025.
+Nesta unidade, os dados tratados nas etapas anteriores são explorados por meio de Análise Exploratória de Dados (EDA — Exploratory Data Analysis), frequências, rankings, séries temporais e Key Performance Indicators (KPIs).
 
-O objetivo é transformar os dados tratados nas etapas anteriores em **indicadores capazes de evidenciar padrões relacionados à ocorrência de acidentes fatais**, utilizando visualizações para facilitar a interpretação dos resultados.
+O objetivo é transformar a base analítica de acidentes da Polícia Rodoviária Federal (PRF) referente a 2025 em informações capazes de revelar padrões, concentrações e comportamentos relevantes nos acidentes registrados.
+
+Além da exploração dos dados, a unidade incorpora conceitos de Data Storytelling, utilizando visualizações para comunicar os principais achados de forma objetiva e facilitar a interpretação dos resultados.
 
 ---
 
@@ -28,17 +30,66 @@ O objetivo é transformar os dados tratados nas etapas anteriores em **indicador
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivos da Unidade
 
-Construir e analisar **5 KPIs relacionados à variável `acidente_fatal`**, explorando diferentes dimensões da base de dados:
+A Unidade 5 tem como objetivos:
 
-- 🚦 Tipo de acidente;
-- 🛣️ Tipo de pista;
-- 🌙 Fase do dia;
-- 🌧️ Condição meteorológica;
-- 🛤️ Rodovia e UF.
+🔎 Realizar uma Análise Exploratória de Dados (EDA — Exploratory Data Analysis);
+📊 Explorar frequências e distribuições das principais variáveis;
+🏆 Construir rankings para destacar categorias e ocorrências relevantes;
+📅 Identificar padrões ao longo do tempo por meio de séries temporais;
+🚦 Analisar a ocorrência de acidentes fatais sob diferentes dimensões;
+📌 Desenvolver 5 KPIs relacionados à variável acidente_fatal;
+🧠 Transformar os resultados em uma narrativa orientada por dados;
+📈 Utilizar visualizações para destacar padrões e relações relevantes.
 
 Além do cálculo dos indicadores, a unidade utiliza **Data Storytelling** para apresentar os principais resultados de forma objetiva e visual.
+
+---
+
+🔍 Análise Exploratória de Dados — EDA
+Exploratory Data Analysis
+
+A Análise Exploratória de Dados (EDA — Exploratory Data Analysis) constitui a etapa de exploração e compreensão inicial da base analítica.
+
+O objetivo é investigar a distribuição dos dados, identificar padrões, comparar categorias e levantar informações relevantes antes da construção dos indicadores.
+
+A análise contempla:
+
+Distribuição das principais variáveis;
+Frequências absolutas e relativas;
+Comparação entre categorias;
+Identificação dos maiores e menores valores;
+Rankings;
+Análise temporal;
+Observação de padrões e possíveis relações entre variáveis.
+
+O EDA constitui o relatório analítico da unidade, reunindo os principais achados obtidos durante a exploração da base.
+
+---
+
+📊 Frequências e Rankings
+
+As análises de frequência permitem identificar quais categorias apresentam maior concentração de ocorrências, enquanto os rankings ajudam a destacar os principais grupos ou localidades segundo diferentes métricas.
+
+Entre as análises realizadas estão:
+
+Frequência por tipo de acidente;
+Frequência por tipo de pista;
+Frequência por fase do dia;
+Frequência por condição meteorológica;
+Rankings de categorias e ocorrências;
+Comparações entre diferentes grupos da base.
+
+Essas análises contribuem para a identificação dos padrões utilizados posteriormente na construção dos KPIs.
+
+---
+
+📅 Série Temporal
+
+A análise temporal permite observar como os acidentes se distribuem ao longo de 2025, possibilitando identificar variações, concentrações e comportamentos ao longo dos períodos analisados.
+
+A série temporal complementa a análise categórica ao introduzir a dimensão do tempo na exploração dos dados.
 
 ---
 
